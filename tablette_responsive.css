@@ -1,0 +1,99 @@
+@media screen and (min-width: 760px) and (max-width: 1024px) {
+
+	body {
+		margin: 0%;
+		padding: 0%;
+	}
+
+	.header1 {
+		padding-left: 3em;
+		padding-top: 1em;
+	}
+
+	.logo {
+		display: block;
+		padding-left: 3em;
+	}
+
+	.menu1 {
+		padding-bottom: 2em;
+	}
+
+	.slider img {
+		width: 90%;
+		height: auto;
+	}
+
+	.body_text1_logo, .body_text2_logo , .body_text2_logo{
+		display: block;
+	}
+
+	.body_text0_logo img {
+		padding-right: 5%;
+		margin-right: -35%;
+		margin-left: -23%;
+	} 
+
+	.body_text {
+		margin-right: 11%;
+		margin-left: -1%;
+		padding-left: 5%;
+		padding-right: 9%;
+
+	}
+
+	.body_text1 {
+		margin-left: 4%;
+	} 
+
+	.body_text1 hr{
+		width: 96%;
+	} 
+
+	.flag {
+		margin-left: 0.7em;
+		margin-bottom: 5em;
+	}
+
+	.body_bottom_aboutus {
+		margin-left: -7em;
+		margin-right: -14%;
+	}
+
+	.body_bottom_aboutus p {
+		padding-top: 3%;
+		margin-right: 46%;
+		margin-left: 2%;
+	}
+
+	.body_bottom_whyus {
+		margin-left: 4%;
+	}
+
+	.body_bottom_whyus img {
+		padding-top: 5%;
+		margin-right: -35%;
+		margin-left: -23%;
+	}
+
+	.body_bottom_travel {
+		margin-left: -10em;
+	}
+
+	.body_bottom_travel_subscribe {
+		margin-bottom: 1em;
+	}
+
+	.footer_menu {
+		margin-left: 2.5%;	
+	}
+
+	.footer_menu a {
+		padding-left: 2.5%;
+	}
+
+	.footer_copyright{
+		margin-left: 4%;
+	}
+
+}

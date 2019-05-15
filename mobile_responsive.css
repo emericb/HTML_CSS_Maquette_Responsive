@@ -1,0 +1,142 @@
+@media screen and (max-device-width: 480px) {
+
+	.header1 {
+		padding-left: 15%;
+		padding-top: 5%;
+		padding-bottom: 2%;
+	}
+
+	.logo {
+		display: block;
+	}
+
+	.logo img {
+		width: 100%;
+    	height: auto;
+		padding-top: 5%;
+	}
+
+	.menu1 ul{
+		display: inline;
+		margin-left: -4em;
+		margin-bottom: 5%;
+	}
+
+	.menu1 li {
+		border-top: solid;
+		border-width: thin;
+		padding: 5%;
+		width: 350px;
+		margin-left: -28px;
+		color: white;
+	}
+	
+	.menu_deroulant li:hover ul {
+   		margin: auto;
+	}
+
+	.slider img {
+		width: 90%;
+		height: auto;
+	}
+
+	.body_text {
+		display: contents;
+		justify-content: center;
+		margin-left: 20%;
+		margin-right: 20%;
+	}
+
+	.body_text0 {
+		display: block;
+		margin-left: 5%;
+		margin-right: 5%;
+	} 
+
+	.body_text0 {
+		padding-bottom: 5%;
+	} 
+
+	.body_text0 img {
+		padding: 2%;
+		float: left;
+	} 
+
+	.body_text0 h3 {
+		padding-top: 5%;
+		padding-bottom: 25%;
+		font-size: 18px;
+	} 
+
+
+	.body_text1 {
+		margin-left: 5%;
+	}
+
+	.body_text1 hr {
+		width: 95%;
+	}
+
+	.flag {
+		display: inline-block;
+		margin-left: 5%;
+		margin-bottom: 2em;
+	}
+
+	.flagFR {
+		margin-right: 3em;
+	}
+
+	.body_bottom {
+		display: block;
+		padding-left: 18%;
+		font-size: 15px;
+	}
+
+	.body_bottom_aboutus {
+		margin-bottom: 20%;
+		margin-left: -19%;
+		margin-top: 10%;
+		margin-right: 5%;
+	}
+
+	.body_bottom_aboutus hr {
+		margin-left: -1%;
+		width: 100%;
+	}
+
+	.body_bottom_whyus {
+		margin-bottom: 10%;
+		margin-right: 5%;
+	}
+
+	.body_bottom_whyus h1 {
+		margin-left: -22%;
+	}
+
+	.body_bottom_whyus hr {
+		margin-left: -22%;
+		width: 115%;
+	}
+
+	.body_bottom_whyus img {
+		padding-top: 12.5%;
+		margin-left: -25%;
+		float: left;
+	}
+
+	.body_bottom_travel {
+		margin-left: -15%;
+		font-size: 17px;
+	}
+
+	.body_bottom_travel_subscribe {
+		margin-bottom: 20%;
+		padding: 2.5% 5% 2.5% 5%;
+	}
+
+	.footer_menu, .footer_copyright {
+  		margin-left: 3%;
+  		font-size: 15px;
+  	}
+}
